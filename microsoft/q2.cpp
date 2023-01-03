@@ -41,5 +41,5 @@ int main() {
     return 0;
 }
 
-// Time Complexity: O(N)
-// Space Complexity: O(N)
+// Time Complexity: O(K*9^K)
+// Space Complexity: O(K)
